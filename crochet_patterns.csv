@@ -1,0 +1,42 @@
+8pb, 1
+8aum, 1
+1pb 1aum, 8
+3pb 1aum, 6
+4pb 1aum, 6
+5pb 1aum, 6
+6pb 1aum, 6
+7pb 1aum, 6
+9pb, 6
+9pb, 6
+9pb, 6
+8pb 1aum, 6
+10pb, 6
+10pb, 6
+10pb, 6
+10pb, 6
+10pb, 6
+9pb 1aum, 6
+11pb, 6
+11pb, 6
+11pb, 6
+11pb, 6
+11pb, 6
+10pb 1aum, 6
+12pb, 6
+12pb, 6
+12pb, 6
+12pb, 6
+12pb, 6
+10pb 1dim, 6
+11pb, 6
+9pb 1dim, 6
+10pb, 6
+4pb 1dim ~ 8pb 1dim ~ 4pb,5
+9pb, 6
+7pb 1dim, 6
+4pb 1dim, 8
+3pb 1dim, 8
+2pb 1dim, 8
+1pb 1dim, 8
+8dim, 1
+2dim, 1
